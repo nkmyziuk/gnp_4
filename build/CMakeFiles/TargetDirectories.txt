@@ -1,0 +1,3 @@
+/home/eporter/nano4/gnp_4/build/CMakeFiles/rebuild_cache.dir
+/home/eporter/nano4/gnp_4/build/CMakeFiles/edit_cache.dir
+/home/eporter/nano4/gnp_4/build/CMakeFiles/LowE-Xray3.dir

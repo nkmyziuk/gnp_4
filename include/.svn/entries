@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="228"
+   name=""
+   committed-date="2010-02-12T17:31:36.600000Z"
+   url="https://svn.cern.ch/reps/g4course2010/CERNtutorial/task4/task4d/include"
+   last-author="adotti"
+   kind="dir"
+   uuid="4525493e-7705-40b1-a816-d608a930855b"
+   revision="337"/>
+<entry
+   committed-rev="148"
+   name="StackingAction.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="3ac530439092b91eca01022d0e620825"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="RunAction.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="d576629be417b58dccb02870a86b1a8e"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="228"
+   name="Analysis.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-12T17:31:36.600000Z"
+   checksum="9e7e086bb41e4c38bc80efaf5b7def44"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="DetectorConstruction.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="07a047df0e914898b964ec4df9b68b37"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="SteppingAction.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="e5e0e063955b4b9b32dbf31bf13ef74c"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="PrimaryGeneratorAction.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="1c2fc5aaa5b85493dc450b5641919b7e"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="PhysicsList.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="00217f16403c43fac7542c394c9cb18d"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="EventAction.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="b8b404a9fd0d902ce3a5d3fa8d0a08c2"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="HadCaloSensitiveDetector.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="0630dc9fbc6028bccd8faef55a524944"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="HadCaloHit.hh"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="b138dd3a462a02536219ed29de3f3d4d"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+</wc-entries>

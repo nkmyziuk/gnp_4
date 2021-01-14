@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="233"
+   name=""
+   committed-date="2010-02-13T11:55:03.297885Z"
+   url="https://svn.cern.ch/reps/g4course2010/CERNtutorial/task4/task4d/src"
+   last-author="adotti"
+   kind="dir"
+   uuid="4525493e-7705-40b1-a816-d608a930855b"
+   revision="337"/>
+<entry
+   committed-rev="148"
+   name="PhysicsList.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="ad9863c06e58a8bc3b80f080c489d190"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="EventAction.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="88000b9be5ba6a211bd38cfebc687d7b"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="HadCaloSensitiveDetector.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="0029fb780a4a4658edb855c8ac9ed26f"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="HadCaloHit.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="6e95c601e1deb0bc16a587146437b1b0"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="StackingAction.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="d0d12eaeba340201e9bed37bac133f10"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="RunAction.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="5152174a5670ed49681d4b059f756109"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="233"
+   name="Analysis.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-13T11:55:03.297885Z"
+   checksum="f6f29c842801906eac3941d8212051a6"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="DetectorConstruction.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="68d8d492189c7ff59f87bd2af83c185c"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="SteppingAction.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="42c37775c1f4a1a9d5f6f4968fa0d933"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+<entry
+   committed-rev="148"
+   name="PrimaryGeneratorAction.cc"
+   text-time="2010-02-19T07:49:35.000000Z"
+   committed-date="2010-02-10T18:10:33.093289Z"
+   checksum="c93063fcfb0b96892e3c3d6580534a99"
+   last-author="adotti"
+   kind="file"
+   prop-time="2010-02-19T07:49:35.000000Z"/>
+</wc-entries>
